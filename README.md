@@ -1,7 +1,6 @@
 # Network Inference
 
 Gene co-expression network inference from gene expression data.
-[picture.pdf](https://github.com/prameshsingh/mutual-information-relatedness/files/9075505/picture.pdf)
 
 If you use this code, please cite the following paper: 
 
