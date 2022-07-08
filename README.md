@@ -14,8 +14,8 @@ To use the code, follow the steps below:
 
 1. Expression data
 
-	* 1.1 Expression levels of each gene (rows) under different conditions (columns). First column is the gene name. See `example.txt`. 
-	* 1.2 Use bash script (work.sh) to obtain the number of genes `n` and number of experiments `N`. 
+	* Expression levels of each gene (rows) under different conditions (columns). First column is the gene name. See `example.txt`. 
+	* Use bash script (work.sh) to obtain the number of genes `n` and number of experiments `N`. 
 	* Example:
 
 		`sh input-info.sh example.txt` 
