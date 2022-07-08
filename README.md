@@ -5,7 +5,7 @@ Gene co-expression network inference from gene expression data.
 If you use this code, please cite the following paper: 
 
 Identifying robust functional modules using three-body correlations in Escherichia coli
-T. Chen, P. Singh, K. E Bassler, J. Phys. Complex. 3 015013 (2022)
+T. Chen, P. Singh, K. E. Bassler, J. Phys. Complex. 3 015013 (2022)
 https://doi.org/10.1088/2632-072X/ac5567 
 
 The mutual information (MI) is calculated using B-Spline functions as described in Daub et al. Estimating mutual information using B-spline functions-an improved similarity measure for analysing gene expression data BMC Bioinform. 5 118 (2004), and the relatedness scores are calculated using the context likelihood of relatedness (CLR) method described in Faith J J et al. Large-scale mapping and validation of E. coli transcriptional regulation from a compendium of expression profiles, PLoS Biol. 5 1–13 (2007).
