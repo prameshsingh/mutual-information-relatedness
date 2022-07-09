@@ -1,6 +1,7 @@
 # Network Inference
 
 Gene co-expression network inference from gene expression data.
+![picture](https://user-images.githubusercontent.com/19229413/178083257-abf798b7-5484-41df-8856-f7262072b70e.png)
 
 If you use this code, please cite the following paper: 
 
